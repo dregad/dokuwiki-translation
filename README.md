@@ -1,11 +1,11 @@
 DokuWiki Translation Tool
 =========================
 
-This tool provides a web based tool to create and update translations for DokuWiki and it's Plug-Ins.
+This tool provides a web based tool to create and update translations for DokuWiki and its Plug-Ins.
 
-The DokuWiki installation availiable at http://translate.dokuwiki.org/
+The DokuWiki installation is available at http://translate.dokuwiki.org/
 
-Source is availiable at https://github.com/dokufreaks/dokuwiki-translation  
+Source is available at https://github.com/dokufreaks/dokuwiki-translation  
 Development documentation available at https://github.com/dokufreaks/dokuwiki-translation/wiki
 
 Deployment: https://www.dokuwiki.org/teams:translate-tool
@@ -65,7 +65,7 @@ Keep track of plugin updates and process new translations. This command should r
 
 Admin commands
 -----------------------
-The following Symfony commands are additionally availiable via commandline.
+The following Symfony commands are additionally available via commandline.
 
 Add a repository:
 
